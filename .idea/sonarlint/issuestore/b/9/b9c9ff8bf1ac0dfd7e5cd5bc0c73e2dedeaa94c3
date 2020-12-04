@@ -1,0 +1,41 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÃ¯„
+L
+java:S1854)"6Remove this useless assignment to local variable "dd".(¶¼É¦
+Q
+java:S1854("6Remove this useless assignment to local variable "cc".(æŠ¯³üÿÿÿÿ
+L
+java:S1854'"6Remove this useless assignment to local variable "bb".(Þ­µÎ
+Q
+java:S1854&"6Remove this useless assignment to local variable "aa".(åÊØôýÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "g".(ÖîýÝ
+P
+java:S1854"5Remove this useless assignment to local variable "e".(¬š¡ƒúÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "c".(Î™„é
+K
+java:S1854"5Remove this useless assignment to local variable "b".(¶µž²
+P
+java:S1854"5Remove this useless assignment to local variable "a".(š‡¹œÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°íåùûÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Ðþ­Ñùÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(™Ý½¢øÿÿÿÿ
+A
+java:S1481"&Remove this unused "a" local variable.(š‡¹œÿÿÿÿÿ
+<
+java:S1481"&Remove this unused "b" local variable.(¶µž²
+<
+java:S1481"&Remove this unused "c" local variable.(Î™„é
+A
+java:S1481"&Remove this unused "e" local variable.(¬š¡ƒúÿÿÿÿ
+<
+java:S1481"&Remove this unused "g" local variable.(ÖîýÝ
+B
+java:S1481&"'Remove this unused "aa" local variable.(åÊØôýÿÿÿÿ
+=
+java:S1481'"'Remove this unused "bb" local variable.(Þ­µÎ
+B
+java:S1481("'Remove this unused "cc" local variable.(æŠ¯³üÿÿÿÿ
+=
+java:S1481)"'Remove this unused "dd" local variable.(¶¼É¦

@@ -35,3 +35,15 @@ L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+X
+(src/tedu_day04_afternoon/RedPackage.java,4\e\4e5d8e76caf140de4010fc8de243856fbab490bd
+U
+%src/tedu_day05_afternoon/FlyDemo.java,0\c\0cce5ac2fc4ebd46e3540fe9e7243f94a85266fd
+S
+#src/tedu_day05_afternoon/Code2.java,d\8\d850f2af1c58dbb24b293e80d60766d00229eb3b
+U
+%src/tedu_day05_afternoon/Alibaba.java,0\4\044bb1d252a00bbb8d63cdd2eafd60176b52b13d
+Q
+!src/tedu_day05_night/TestDoc.java,4\5\455987305074075e750515da164b608eff45b464
+P
+ src/tedu_day05_night/Doctor.java,5\1\516ea71ff2cb840989c6a59e6a69512367114cb1
